@@ -114,4 +114,5 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
 [A link to that custom anchor](#my-custom-anchor-point)
