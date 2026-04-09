@@ -74,4 +74,28 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 
 (… more content…)
 
+# Section Heading
+
+Some body text of this section.
+
+
+Some text I want to provide a direct link to, but which doesn't have its own heading.
+
+(… more content…)
+# Section Heading
+
+Some body text of this section.
+
+
+Some text I want to provide a direct link to, but which doesn't have its own heading.
+
+(… more content…)
+# Section Heading
+
+Some body text of this section.
+
+
+Some text I want to provide a direct link to, but which doesn't have its own heading.
+
+(… more content…)
 [A link to that custom anchor](#my-custom-anchor-point)
